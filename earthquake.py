@@ -19,8 +19,8 @@ class Window(QtWidgets.QMainWindow):
         self.search_button = QtWidgets.QPushButton("Go")
         self.map_button = QtWidgets.QPushButton("See the map")
         self.list_button = QtWidgets.QPushButton("See the last 500 earthquakes")
-        self.last_update = QtWidgets.QLabel(f"last update: {datetime.datetime.now()}")
-
+        self.last_update = QtWidgets.QLabel(f"last update: {datetime.datetime.now()}\n"
+                                            f"all data is taken from http://www.koeri.boun.edu.tr/scripts/lasteq.asp")
         self.back_button = QtWidgets.QPushButton("Back")
 
         search_top = QtWidgets.QHBoxLayout()
