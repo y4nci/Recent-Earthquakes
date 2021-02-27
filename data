@@ -1,0 +1,502 @@
+2021-02-27 16:56:29.475518
+2021.02.27 16:44:42  39.4520   31.5808        0.0      -.-  1.7  -.-   BOGURTLEN-SIVRIHISAR (ESKISEHIR)                  İlksel
+2021.02.27 16:37:40  38.7255   33.6330        6.8      -.-  1.4  -.-   CALOREN-SEREFLIKOCHISAR (ANKARA)                  İlksel
+2021.02.27 16:36:48  39.4523   31.6123        0.0      -.-  1.5  -.-   BOGURTLEN-SIVRIHISAR (ESKISEHIR)                  İlksel
+2021.02.27 16:04:52  37.9087   26.8410       14.0      -.-  1.7  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.27 15:12:06  40.6260   29.0297        6.5      -.-  3.2  -.-   KOCADERE-CINARCIK (YALOVA)                        İlksel
+2021.02.27 14:45:30  39.2315   26.9538        9.1      -.-  1.7  -.-   KAPLANKOY-BERGAMA (IZMIR)                         İlksel
+2021.02.27 13:54:30  38.4887   39.3077        7.2      -.-  1.6  -.-   GUNEYKOY-SIVRICE (ELAZIG)                         İlksel
+2021.02.27 13:43:58  38.4522   39.2455        5.3      -.-  1.7  -.-   ALINCIK-SIVRICE (ELAZIG)                          İlksel
+2021.02.27 13:34:36  37.9032   26.8335        7.6      -.-  1.4  -.-   EGE DENIZI                                        İlksel
+2021.02.27 13:21:53  37.9257   26.9310        7.3      -.-  2.1  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.27 13:16:09  37.7778   26.9757        3.1      -.-  1.8  -.-   SISAM ADASI (EGE DENIZI)                          İlksel
+2021.02.27 12:50:59  40.1693   23.8652        7.3      -.-  2.9  -.-   YUNANISTAN                                        REVIZE01   (2021.02.27 12:50:59)
+2021.02.27 12:11:02  37.9137   26.9728        7.9      -.-  1.7  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.27 11:57:12  38.6633   39.7337        3.3      -.-  1.8  -.-   MURATBAGI-KOVANCILAR (ELAZIG)                     İlksel
+2021.02.27 11:06:09  39.1432   27.5280        0.0      -.-  1.6  -.-   HACIYUSUF-SOMA (MANISA)                           İlksel
+2021.02.27 10:48:25  38.6665   39.7368        6.2      -.-  1.7  -.-   HACISAM-KOVANCILAR (ELAZIG)                       İlksel
+2021.02.27 10:18:43  38.4268   39.2650        5.9      -.-  1.7  -.-   DUZBAHCE-SIVRICE (ELAZIG)                         İlksel
+2021.02.27 10:09:01  37.8933   26.8835       17.9      -.-  1.8  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.27 09:53:21  38.2643   38.8020        3.1      -.-  2.2  -.-   KARSIYAKA-PUTURGE (MALATYA)                       İlksel
+2021.02.27 08:26:57  37.1212   36.2597        5.0      -.-  1.7  -.-   NOHUTTEPE-(OSMANIYE)                              İlksel
+2021.02.27 08:06:01  38.9492   25.9842        5.2      -.-  2.0  -.-   EGE DENIZI                                        İlksel
+2021.02.27 07:51:04  38.5268   39.4243        5.4      -.-  1.4  -.-   GOLARDI-(ELAZIG)                                  İlksel
+2021.02.27 05:28:16  39.7975   33.3888        5.3      -.-  1.2  -.-   BEDESTEN-YAHSIHAN (KIRIKKALE)                     İlksel
+2021.02.27 04:40:16  36.9170   27.6783       14.7      -.-  2.1  -.-   GOKOVA KORFEZI (AKDENIZ)                          İlksel
+2021.02.27 04:30:08  35.4525   26.7542        2.0      -.-  1.9  -.-   GIRIT ADASI (AKDENIZ)                             İlksel
+2021.02.27 04:22:58  39.6272   26.1298        9.6      -.-  1.5  -.-   KOSEDERE-AYVACIK (CANAKKALE)                      İlksel
+2021.02.27 02:56:32  38.8518   26.0535        5.0      -.-  2.1  -.-   EGE DENIZI                                        İlksel
+2021.02.27 02:16:29  35.6405   30.3505       15.8      -.-  2.8  -.-   AKDENIZ                                           İlksel
+2021.02.27 01:49:38  34.2638   26.5212        4.9      -.-  2.3  -.-   GIRIT ADASI ACIKLARI (AKDENIZ)                    İlksel
+2021.02.27 01:13:07  35.1327   24.1565        7.8      -.-  2.4  -.-   GIRIT ADASI (AKDENIZ)                             İlksel
+2021.02.27 00:43:30  38.1217   38.2922        1.0      -.-  2.0  -.-   KALECIK-CELIKHAN (ADIYAMAN)                       İlksel
+2021.02.27 00:07:24  41.3403   33.5603        6.7      -.-  2.2  -.-   OMERSIN-ARAC (KASTAMONU)                          İlksel
+2021.02.26 23:09:33  39.1662   29.0192       10.9      -.-  1.3  -.-   KARACAOREN-SIMAV (KUTAHYA)                        İlksel
+2021.02.26 22:01:45  37.8137   26.4450        5.0      -.-  1.9  -.-   ONIKI ADALAR (AKDENIZ)                            İlksel
+2021.02.26 20:23:46  37.8112   29.6573        5.9      -.-  1.6  -.-   CARDAK (DENIZLI)                                  İlksel
+2021.02.26 20:00:50  37.8683   26.8803        5.0      -.-  2.1  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.26 20:00:07  39.6422   38.6380        8.5      -.-  2.1  -.-   UGURKOY-ILIC (ERZINCAN)                           İlksel
+2021.02.26 19:42:16  39.5880   27.1178       12.7      -.-  1.9  -.-   KALABAK-HAVRAN (BALIKESIR)                        İlksel
+2021.02.26 19:24:58  34.3307   26.2482       24.1      -.-  3.4  -.-   GIRIT ADASI ACIKLARI (AKDENIZ)                    İlksel
+2021.02.26 18:46:46  34.4720   26.0213       11.5      -.-  4.1  -.-   GIRIT ADASI ACIKLARI (AKDENIZ)                    İlksel
+2021.02.26 18:42:06  38.5873   31.6500        5.4      -.-  2.1  -.-   MEVLUTLU-TUZLUKCU (KONYA)                         İlksel
+2021.02.26 18:23:28  37.8613   26.8853        1.5      -.-  2.1  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.26 16:57:59  38.9545   33.6007        3.4      -.-  1.1  -.-   SEYMENLI-SEREFLIKOCHISAR (ANKARA)                 İlksel
+2021.02.26 16:52:17  37.4015   33.2747       16.3      -.-  1.5  -.-   DINEK-(KARAMAN)                                   İlksel
+2021.02.26 16:29:22  37.8565   26.8275        4.9      -.-  1.7  -.-   EGE DENIZI                                        İlksel
+2021.02.26 16:19:58  37.8782   27.2310       18.9      -.-  1.7  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.26 16:09:55  38.1443   30.9150        9.6      -.-  1.5  -.-   YENICE-GELENDOST (ISPARTA)                        İlksel
+2021.02.26 15:48:59  39.9070   40.7173       28.0      -.-  1.8  -.-   ASKALE (ERZURUM)                                  İlksel
+2021.02.26 15:42:35  37.8068   26.8167        5.0      -.-  3.6  3.5   SISAM ADASI (EGE DENIZI)                          İlksel
+2021.02.26 15:18:50  40.7637   31.7930        0.0      -.-  1.5  -.-   YUVA-(BOLU)                                       İlksel
+2021.02.26 14:45:46  40.4215   29.6155        4.2      -.-  1.4  -.-   GOLLUCE-IZNIK (BURSA)                             İlksel
+2021.02.26 14:32:58  38.2643   38.8085        5.0      -.-  2.0  -.-   KARSIYAKA-PUTURGE (MALATYA)                       İlksel
+2021.02.26 14:29:13  39.9647   27.5035        7.5      -.-  1.4  -.-   YALIOBA-YENICE (CANAKKALE)                        İlksel
+2021.02.26 14:04:11  38.2257   38.0742        0.0      -.-  1.3  -.-   ISIKLI-YESILYURT (MALATYA)                        İlksel
+2021.02.26 13:25:42  38.7453   27.2482       14.0      -.-  1.6  -.-   KUCUKSUMBULLER-(MANISA)                           İlksel
+2021.02.26 12:46:24  37.4158   28.3967        0.0      -.-  1.4  -.-   MENTESE-KAVAKLIDERE (MUGLA)                       İlksel
+2021.02.26 12:41:19  39.2850   37.2813        3.6      -.-  1.7  -.-   YAYLACIK-KANGAL (SIVAS)                           İlksel
+2021.02.26 12:36:29  37.0982   34.7890        9.7      -.-  1.3  -.-   BEYLICE-TARSUS (MERSIN)                           REVIZE01   (2021.02.26 12:36:29)
+2021.02.26 12:20:37  37.2735   37.3905        2.9      -.-  1.8  -.-   TEKIRSIN-SEHITKAMIL (GAZIANTEP)                   İlksel
+2021.02.26 12:13:00  39.4422   38.5393        5.0      -.-  1.6  -.-   COPLER-ILIC (ERZINCAN)                            İlksel
+2021.02.26 11:48:07  38.9870   26.0373       15.9      -.-  2.5  -.-   EGE DENIZI                                        İlksel
+2021.02.26 10:56:30  38.9842   26.0560        4.6      -.-  2.0  -.-   EGE DENIZI                                        İlksel
+2021.02.26 10:39:16  38.9410   25.9633        4.8      -.-  2.1  -.-   EGE DENIZI                                        İlksel
+2021.02.26 10:35:34  39.2463   41.2570       16.9      -.-  1.3  -.-   YESILDAL-VARTO (MUS)                              İlksel
+2021.02.26 10:10:36  37.1830   37.1905        0.0      -.-  1.4  -.-   DURNALIK-SEHITKAMIL (GAZIANTEP)                   İlksel
+2021.02.26 10:08:48  39.7628   28.8148        0.0      -.-  1.2  -.-   ZAFERIYE-BUYUKORHAN (BURSA)                       İlksel
+2021.02.26 09:46:06  39.5218   27.9057       20.4      -.-  1.0  -.-   PAMUKCU-(BALIKESIR)                               İlksel
+2021.02.26 09:02:03  37.8570   26.8905       21.0      -.-  1.9  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.26 09:00:18  37.8750   27.0827       19.2      -.-  1.7  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.26 08:57:54  38.9547   26.0837        4.4      -.-  2.4  -.-   MIDILLI ADASI (EGE DENIZI)                        İlksel
+2021.02.26 08:32:48  39.1105   36.0525        5.0      -.-  2.4  -.-   TATILI-SARIOGLAN (KAYSERI)                        İlksel
+2021.02.26 08:13:12  38.7677   38.1393       18.1      -.-  1.8  -.-   YUREKTASI-ARGUVAN (MALATYA)                       İlksel
+2021.02.26 07:15:44  37.8635   27.6100       12.8      -.-  1.6  -.-   GERMENCIK (AYDIN)                                 İlksel
+2021.02.26 07:01:44  37.2175   27.9263        5.0      -.-  1.4  -.-   KAYADERE-MILAS (MUGLA)                            İlksel
+2021.02.26 05:41:07  39.2425   28.2670        2.1      -.-  1.9  -.-   DANACAYIRI-SINDIRGI (BALIKESIR)                   İlksel
+2021.02.26 05:23:59  39.0332   26.0245        5.0      -.-  2.0  -.-   EGE DENIZI                                        İlksel
+2021.02.26 04:38:08  38.3893   39.1995        7.1      -.-  1.3  -.-   KOSEBAYIR-SIVRICE (ELAZIG)                        İlksel
+2021.02.26 04:26:21  40.3312   25.7113        8.8      -.-  1.6  -.-   EGE DENIZI                                        İlksel
+2021.02.26 04:00:21  37.3142   28.8472       22.6      -.-  0.9  -.-   KAYABASI-KALE (DENIZLI)                           İlksel
+2021.02.26 03:53:45  38.6352   27.7358        8.0      -.-  1.5  -.-   YAKUPLAR-TURGUTLU (MANISA)                        İlksel
+2021.02.26 03:33:29  34.8082   25.0022       16.0      -.-  2.0  -.-   GIRIT ADASI ACIKLARI (AKDENIZ)                    İlksel
+2021.02.26 03:09:58  39.8465   30.4823        2.8      -.-  1.3  -.-   TEPEBASI (ESKISEHIR)                              İlksel
+2021.02.26 02:48:34  37.5770   26.9307       16.0      -.-  1.8  -.-   EGE DENIZI                                        İlksel
+2021.02.26 02:47:55  37.8852   26.9360       21.0      -.-  1.3  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.26 02:31:54  37.8867   26.8975        8.2      -.-  1.3  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.26 02:18:10  39.8500   31.7583        7.9      -.-  1.5  -.-   SARAYKOY-MIHALICCIK (ESKISEHIR)                   İlksel
+2021.02.26 02:05:36  38.1585   25.8213        5.3      -.-  2.0  -.-   EGE DENIZI                                        İlksel
+2021.02.26 01:42:47  37.8640   29.9158       14.6      -.-  1.2  -.-   YUREGIL-DAZKIRI (AFYONKARAHISAR)                  REVIZE01   (2021.02.26 01:42:47)
+2021.02.26 01:36:04  37.8560   27.0597        4.5      -.-  1.6  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.26 01:27:36  38.5900   31.6513        8.3      -.-  1.4  -.-   MEVLUTLU-TUZLUKCU (KONYA)                         İlksel
+2021.02.26 01:07:55  39.1315   36.0245        5.0      -.-  2.1  -.-   TATILI-SARIOGLAN (KAYSERI)                        İlksel
+2021.02.26 00:44:15  37.8952   26.9770        8.1      -.-  2.0  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.26 00:32:35  37.7182   25.9375        7.8      -.-  1.9  -.-   ONIKI ADALAR (AKDENIZ)                            İlksel
+2021.02.25 23:59:04  34.5952   25.9412       10.3      -.-  2.6  -.-   GIRIT ADASI ACIKLARI (AKDENIZ)                    İlksel
+2021.02.25 23:41:04  37.8965   26.9495        8.4      -.-  2.2  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.25 23:09:38  38.9790   26.0567        6.0      -.-  2.4  -.-   EGE DENIZI                                        İlksel
+2021.02.25 22:19:42  39.1422   29.0663        8.2      -.-  1.4  -.-   SOGUT-SIMAV (KUTAHYA)                             İlksel
+2021.02.25 22:15:53  38.7133   30.3720       15.4      -.-  1.1  -.-   TINAZTEPE-SINANPASA (AFYONKARAHISAR)              İlksel
+2021.02.25 22:01:12  39.1438   29.0533        9.4      -.-  2.1  -.-   AHLATLICESME-SIMAV (KUTAHYA)                      İlksel
+2021.02.25 21:51:09  39.0013   26.0918        7.1      -.-  1.9  -.-   MIDILLI ADASI (EGE DENIZI)                        İlksel
+2021.02.25 21:43:29  39.3785   39.7350        9.2      -.-  1.9  -.-   BOGALI-PULUMUR (TUNCELI)                          İlksel
+2021.02.25 21:28:25  38.9473   26.0162        4.7      -.-  2.2  -.-   EGE DENIZI                                        İlksel
+2021.02.25 21:09:44  37.9407   29.1928        0.0      -.-  1.3  -.-   GUZELPINAR-(DENIZLI)                              İlksel
+2021.02.25 21:00:22  36.4183   29.9177        5.0      -.-  1.4  -.-   DAGBAG-FINIKE (ANTALYA)                           İlksel
+2021.02.25 19:04:31  36.1748   27.6103       10.3      -.-  1.7  -.-   AKDENIZ                                           İlksel
+2021.02.25 18:54:16  38.9305   25.9847       11.3      -.-  1.7  -.-   EGE DENIZI                                        İlksel
+2021.02.25 18:31:57  39.6627   37.3220        4.9      -.-  2.3  -.-   KARAYUN-(SIVAS)                                   İlksel
+2021.02.25 18:20:38  39.2002   29.3568        0.0      -.-  1.8  -.-   SEYHLER-HISARCIK (KUTAHYA)                        İlksel
+2021.02.25 18:16:53  38.9425   26.0532        9.6      -.-  3.2  -.-   EGE DENIZI                                        İlksel
+2021.02.25 18:11:30  39.1800   29.3053        0.0      -.-  1.5  -.-   DEREKOY-HISARCIK (KUTAHYA)                        İlksel
+2021.02.25 18:11:07  41.2538   41.4078       12.0      -.-  1.5  -.-   BASKOY-ARHAVI (ARTVIN)                            İlksel
+2021.02.25 17:13:10  41.0575   40.8817        5.0      -.-  1.7  -.-   LEVENTKOY-HEMSIN (RIZE)                           İlksel
+2021.02.25 15:09:27  37.9032   26.7867        5.2      -.-  1.8  -.-   EGE DENIZI                                        İlksel
+2021.02.25 12:48:21  39.2957   41.1425        4.6      -.-  4.2  4.3   ALABALIK-VARTO (MUS)                              İlksel
+2021.02.25 11:57:27  39.1307   27.5632        0.0      -.-  1.6  -.-   DEREKOY-SOMA (MANISA)                             İlksel
+2021.02.25 11:46:16  37.2545   28.2062        0.0      -.-  1.7  -.-   PASAPINARI-(MUGLA)                                İlksel
+2021.02.25 10:45:53  36.7077   27.9410       28.2      -.-  1.4  -.-   BOZBURUN ACIKLARI-MUGLA (AKDENIZ)                 İlksel
+2021.02.25 10:42:35  37.8223   26.9287        8.6      -.-  2.5  -.-   SISAM ADASI (EGE DENIZI)                          İlksel
+2021.02.25 10:36:15  41.2767   33.6143       22.4      -.-  1.6  -.-   OMCULAR-(KASTAMONU)                               İlksel
+2021.02.25 10:17:39  39.5998   26.4650        5.1      -.-  2.0  -.-   TARTISIK-AYVACIK (CANAKKALE)                      İlksel
+2021.02.25 10:15:38  36.6445   28.8952       23.5      -.-  1.6  -.-   FETHIYE KORFEZI (AKDENIZ)                         İlksel
+2021.02.25 10:04:33  39.1155   40.4392        1.1      -.-  2.2  -.-   SANCAK-(BINGOL)                                   İlksel
+2021.02.25 09:42:01  36.5058   28.5662        5.0      -.-  1.8  -.-   AKDENIZ                                           İlksel
+2021.02.25 09:37:19  36.4923   28.5435       17.3      -.-  1.9  -.-   AKDENIZ                                           İlksel
+2021.02.25 09:17:12  40.0533   28.9198        7.5      -.-  2.2  -.-   ERENLER-ORHANELI (BURSA)                          İlksel
+2021.02.25 08:14:06  40.0628   28.9298        7.1      -.-  2.8  -.-   ERENLER-ORHANELI (BURSA)                          İlksel
+2021.02.25 07:29:32  37.0337   29.5187        5.3      -.-  1.6  -.-   EVCILER-GOLHISAR (BURDUR)                         İlksel
+2021.02.25 06:33:36  40.0110   39.7777        9.2      -.-  2.2  -.-   SERENLI-DEMIROZU (BAYBURT)                        İlksel
+2021.02.25 05:39:39  38.8940   26.1557       15.2      -.-  2.0  -.-   MIDILLI ADASI (EGE DENIZI)                        İlksel
+2021.02.25 05:31:48  38.9387   26.0252       10.9      -.-  1.9  -.-   EGE DENIZI                                        İlksel
+2021.02.25 04:45:54  38.7493   42.8468        8.0      -.-  2.3  -.-   ERIKBAGI-ADILCEVAZ (BITLIS)                       İlksel
+2021.02.25 04:32:22  39.2227   28.2425       13.5      -.-  1.7  -.-   CALTILI-SINDIRGI (BALIKESIR)                      İlksel
+2021.02.25 04:04:19  38.9627   25.9418        8.0      -.-  2.2  -.-   EGE DENIZI                                        İlksel
+2021.02.25 03:41:23  37.3207   28.8730        5.0      -.-  3.3  3.3   KAYABASI-KALE (DENIZLI)                           İlksel
+2021.02.25 03:39:36  39.1237   32.7005        8.1      -.-  2.1  -.-   BURUNAGIL-KULU (KONYA)                            İlksel
+2021.02.25 02:26:18  40.1018   24.4538        5.4      -.-  2.6  -.-   YUNANISTAN                                        İlksel
+2021.02.25 02:21:35  37.9042   27.3897       20.7      -.-  1.4  -.-   CAMLIK-SELCUK (IZMIR)                             İlksel
+2021.02.25 02:11:53  36.8142   26.3825       22.4      -.-  2.0  -.-   AKDENIZ                                           İlksel
+2021.02.25 00:29:54  38.1923   38.6932       16.8      -.-  1.6  -.-   ALIHAN-PUTURGE (MALATYA)                          İlksel
+2021.02.25 00:05:01  37.9345   27.1338        7.4      -.-  2.3  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.24 23:43:18  40.5130   42.3648        5.5      -.-  2.1  -.-   TUTENOCAK-SENKAYA (ERZURUM)                       İlksel
+2021.02.24 23:17:56  37.0627   29.0935       19.9      -.-  1.5  -.-   YOLCATI-ACIPAYAM (DENIZLI)                        İlksel
+2021.02.24 22:49:13  38.2035   38.7247       13.4      -.-  1.4  -.-   PAZARCIK-PUTURGE (MALATYA)                        İlksel
+2021.02.24 21:27:27  38.2465   38.5300        7.9      -.-  2.1  -.-   GULUMUSAGI-(MALATYA)                              İlksel
+2021.02.24 21:15:28  36.0492   35.9870        5.0      -.-  2.0  -.-   TEKEBASI-SAMANDAG (HATAY)                         İlksel
+2021.02.24 20:22:32  38.5052   39.2815       12.1      -.-  2.0  -.-   BEKCITEPE-SIVRICE (ELAZIG)                        İlksel
+2021.02.24 19:48:53  37.1518   28.5343       23.1      -.-  1.3  -.-   GOLCUK-ULA (MUGLA)                                İlksel
+2021.02.24 18:34:19  37.6977   27.1385        6.8      -.-  2.4  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.24 17:42:44  39.8418   30.1053        9.3      -.-  1.7  -.-   AKPINAR-BOZUYUK (BILECIK)                         İlksel
+2021.02.24 17:36:16  41.2057   40.7003        8.3      -.-  2.0  -.-   KEMERKOY-CAYELI (RIZE)                            İlksel
+2021.02.24 16:32:58  40.7177   27.3445        9.2      -.-  1.1  -.-   HOSKOY-SARKOY (TEKIRDAG)                          İlksel
+2021.02.24 15:43:32  38.6332   31.1960        3.7      -.-  1.5  -.-   EBER-CAY (AFYONKARAHISAR)                         İlksel
+2021.02.24 15:30:32  39.0918   27.5585        5.0      -.-  2.0  -.-   EGNEZ-SOMA (MANISA)                               İlksel
+2021.02.24 15:08:20  39.2350   28.2650        7.4      -.-  2.0  -.-   DANACAYIRI-SINDIRGI (BALIKESIR)                   İlksel
+2021.02.24 13:51:51  35.6695   26.5922        2.5      -.-  4.0  4.1   AKDENIZ                                           İlksel
+2021.02.24 13:41:59  37.4322   38.2183        0.0      -.-  1.9  -.-   OZGOREN-BOZOVA (SANLIURFA)                        İlksel
+2021.02.24 13:22:12  37.8922   27.0367        9.9      -.-  1.9  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.24 12:55:46  38.1632   32.6302        0.0      -.-  1.2  -.-   GUVENC-SELCUKLU (KONYA)                           İlksel
+2021.02.24 12:40:50  37.7755   27.3060        5.0      -.-  1.7  -.-   SOGUCAK-KUSADASI (AYDIN)                          İlksel
+2021.02.24 12:13:44  39.3983   38.5550        5.0      -.-  1.8  -.-   SABIRLI-ILIC (ERZINCAN)                           İlksel
+2021.02.24 11:50:12  39.6680   29.3555        0.0      -.-  2.0  -.-   KARAKAYA-TAVSANLI (KUTAHYA)                       İlksel
+2021.02.24 11:30:27  38.9515   26.2598       20.3      -.-  2.0  -.-   EGE DENIZI                                        İlksel
+2021.02.24 11:23:08  36.2752   28.7768       12.4      -.-  1.7  -.-   AKDENIZ                                           İlksel
+2021.02.24 11:16:48  38.9715   26.2063        3.1      -.-  2.1  -.-   MIDILLI ADASI (EGE DENIZI)                        İlksel
+2021.02.24 10:43:05  38.9442   25.9390        5.4      -.-  2.3  -.-   EGE DENIZI                                        İlksel
+2021.02.24 10:14:11  40.4335   29.2230        0.0      -.-  0.5  -.-   CIHATLI-GEMLIK (BURSA)                            İlksel
+2021.02.24 10:03:33  38.1895   38.5508        5.0      -.-  2.3  -.-   ULUKOY-(MALATYA)                                  İlksel
+2021.02.24 09:40:52  37.9398   27.0008        5.2      -.-  1.8  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.24 09:39:38  38.6280   30.8398        5.3      -.-  1.4  -.-   GOZSUZLU-(AFYONKARAHISAR)                         İlksel
+2021.02.24 08:20:33  39.6232   37.2742       19.1      -.-  2.5  -.-   YAVU-(SIVAS)                                      İlksel
+2021.02.24 08:16:09  38.3365   38.6873        4.0      -.-  1.8  -.-   ERDEMLI-KALE (MALATYA)                            İlksel
+2021.02.24 07:40:25  37.8700   37.3810        4.6      -.-  1.8  -.-   UMUTLU-NURHAK (KAHRAMANMARAS)                     İlksel
+2021.02.24 07:38:54  39.2083   28.3065       16.2      -.-  1.7  -.-   ASLANDEDE-SINDIRGI (BALIKESIR)                    İlksel
+2021.02.24 07:27:56  39.2048   28.2840        8.0      -.-  2.0  -.-   ASLANDEDE-SINDIRGI (BALIKESIR)                    İlksel
+2021.02.24 07:15:46  35.0962   27.1350       17.1      -.-  3.6  -.-   GIRIT ADASI ACIKLARI (AKDENIZ)                    İlksel
+2021.02.24 07:12:45  39.3992   40.6982        1.8      -.-  2.1  -.-   DINARBEY-YEDISU (BINGOL)                          İlksel
+2021.02.24 07:12:06  39.2222   28.2777        8.2      -.-  2.4  -.-   ASLANDEDE-SINDIRGI (BALIKESIR)                    İlksel
+2021.02.24 07:09:06  39.2578   28.2742        7.2      -.-  2.8  -.-   YOLCUPINAR-SINDIRGI (BALIKESIR)                   İlksel
+2021.02.24 06:04:38  37.8602   37.4872        5.0      -.-  1.9  -.-   SAVRAN-GOLBASI (ADIYAMAN)                         İlksel
+2021.02.24 05:00:06  37.8893   27.1202       16.9      -.-  0.8  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.24 04:40:07  37.7313   29.2673       12.2      -.-  1.0  -.-   HONAZ (DENIZLI)                                   İlksel
+2021.02.24 04:31:09  37.8498   26.9977       21.0      -.-  1.4  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.24 03:57:44  40.6665   27.5100       15.6      -.-  1.9  -.-   GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)       İlksel
+2021.02.24 03:17:21  37.8683   26.9342       14.7      -.-  1.4  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.24 01:18:08  34.5708   23.0500       20.7      -.-  2.1  -.-   GIRIT ADASI (AKDENIZ)                             İlksel
+2021.02.24 01:05:33  37.8698   26.9535        9.8      -.-  2.0  -.-   KUSADASI KORFEZI (EGE DENIZI)                     REVIZE01   (2021.02.24 01:05:33)
+2021.02.24 00:56:00  37.8738   26.9490       14.4      -.-  2.9  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.24 00:38:37  38.6820   40.5653        5.3      -.-  1.7  -.-   DOGANCA-GENC (BINGOL)                             İlksel
+2021.02.24 00:23:32  38.9422   25.9893        9.8      -.-  2.2  -.-   EGE DENIZI                                        İlksel
+2021.02.24 00:16:07  38.0113   27.2087        5.2      -.-  1.9  -.-   GOLOVA-MENDERES (IZMIR)                           İlksel
+2021.02.23 23:27:01  39.1890   28.3175        7.6      -.-  1.4  -.-   BUYUKDAGDERE-SINDIRGI (BALIKESIR)                 İlksel
+2021.02.23 23:15:56  36.4770   27.0955       18.6      -.-  1.6  -.-   ONIKI ADALAR (AKDENIZ)                            İlksel
+2021.02.23 22:14:01  34.1005   26.0510        5.9      -.-  3.3  -.-   GIRIT ADASI ACIKLARI (AKDENIZ)                    İlksel
+2021.02.23 21:35:05  37.8138   26.9925        9.6      -.-  2.0  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.23 21:24:56  37.9448   30.1750       22.8      -.-  1.4  -.-   KAVAKKOY-KECIBORLU (ISPARTA)                      İlksel
+2021.02.23 21:23:00  36.0812   28.8182        5.0      -.-  2.4  -.-   AKDENIZ                                           İlksel
+2021.02.23 20:47:20  39.1155   36.0623        8.9      -.-  1.6  -.-   BESTEPE-GEMEREK (SIVAS)                           İlksel
+2021.02.23 20:29:38  39.0257   36.1600        5.0      -.-  1.4  -.-   AKKISLA (KAYSERI)                                 İlksel
+2021.02.23 20:28:49  35.8180   29.2975       15.6      -.-  1.6  -.-   AKDENIZ                                           İlksel
+2021.02.23 19:52:31  39.2373   28.2485        6.5      -.-  2.7  -.-   DANACAYIRI-SINDIRGI (BALIKESIR)                   İlksel
+2021.02.23 19:42:45  40.8607   28.3037        4.9      -.-  1.7  -.-   MARMARA DENIZI                                    İlksel
+2021.02.23 19:37:44  39.1168   36.0783        5.0      -.-  2.3  -.-   BESTEPE-GEMEREK (SIVAS)                           İlksel
+2021.02.23 19:06:05  38.2032   38.6278        5.0      -.-  3.0  -.-   SOGUTLU-PUTURGE (MALATYA)                         İlksel
+2021.02.23 18:32:41  38.3903   38.8055        4.6      -.-  1.8  -.-   KOZLUK-KALE (MALATYA)                             İlksel
+2021.02.23 16:57:59  39.2353   28.2735       11.9      -.-  2.6  -.-   DANACAYIRI-SINDIRGI (BALIKESIR)                   İlksel
+2021.02.23 16:20:15  39.2168   28.2975        8.1      -.-  1.5  -.-   ASLANDEDE-SINDIRGI (BALIKESIR)                    İlksel
+2021.02.23 15:50:10  38.6958   40.1462       12.3      -.-  2.0  -.-   GULLUCE-PALU (ELAZIG)                             İlksel
+2021.02.23 15:47:18  38.1722   38.6103        5.0      -.-  3.1  3.2   SOGUTLU-PUTURGE (MALATYA)                         İlksel
+2021.02.23 15:19:42  36.8260   38.2997        1.6      -.-  2.2  2.3   MURSITPINAR-SURUC (SANLIURFA)                     İlksel
+2021.02.23 14:37:31  40.5462   39.3193        9.9      -.-  2.0  -.-   HARMANCIK-TORUL (GUMUSHANE)                       İlksel
+2021.02.23 14:25:23  37.8763   29.2827        0.0      -.-  1.3  -.-   GURLEYIK-HONAZ (DENIZLI)                          İlksel
+2021.02.23 14:01:03  38.9897   26.0228       17.3      -.-  2.2  -.-   EGE DENIZI                                        İlksel
+2021.02.23 13:06:08  39.4517   40.3902       12.4      -.-  1.8  -.-   GELINPERTEK-YEDISU (BINGOL)                       İlksel
+2021.02.23 13:03:30  38.9283   28.7632        7.1      -.-  2.6  -.-   MEZITLER-DEMIRCI (MANISA)                         İlksel
+2021.02.23 13:00:51  40.4697   29.3055        0.0      -.-  1.7  -.-   CELTIKCI-ORHANGAZI (BURSA)                        İlksel
+2021.02.23 12:35:51  38.5822   39.5723       23.8      -.-  1.7  -.-   DEGIRMENONU-(ELAZIG)                              İlksel
+2021.02.23 12:32:35  39.1580   27.5317        0.0      -.-  1.5  -.-   AVDAN-SOMA (MANISA)                               İlksel
+2021.02.23 12:16:20  37.9365   27.0390        7.9      -.-  2.1  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.23 11:30:50  37.0490   34.6862        0.0      -.-  1.5  -.-   PIROMERLI-TARSUS (MERSIN)                         İlksel
+2021.02.23 11:19:20  37.1123   31.1803      103.4      -.-  3.0  -.-   BOZYAKA-MANAVGAT (ANTALYA)                        İlksel
+2021.02.23 11:12:21  37.9617   34.7332        0.0      -.-  1.7  -.-   GUMUSLER-(NIGDE)                                  İlksel
+2021.02.23 11:10:52  39.0962   26.7962        7.3      -.-  1.3  -.-   DIKILI ACIKLARI-IZMIR (EGE DENIZI)                İlksel
+2021.02.23 10:52:59  39.8258   38.9333        6.2      -.-  2.8  -.-   ALACAYIR-REFAHIYE (ERZINCAN)                      İlksel
+2021.02.23 10:50:35  39.1402   37.2812       13.8      -.-  1.8  -.-   KOCAKURT-KANGAL (SIVAS)                           İlksel
+2021.02.23 10:15:30  38.9340   26.0005       10.8      -.-  3.8  3.8   EGE DENIZI                                        İlksel
+2021.02.23 09:17:44  35.2727   26.8798       34.9      -.-  3.0  3.3   GIRIT ADASI (AKDENIZ)                             İlksel
+2021.02.23 08:38:05  39.3243   43.2037        7.2      -.-  2.4  -.-   AGIRKAYA-ERCIS (VAN)                              İlksel
+2021.02.23 08:34:49  37.8938   27.0800       29.9      -.-  1.6  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.23 08:20:35  38.5627   27.7812        5.2      -.-  2.1  -.-   MUSACALI-TURGUTLU (MANISA)                        İlksel
+2021.02.23 08:02:32  38.2732   26.2852        2.6      -.-  1.5  -.-   OVACIK-CESME (IZMIR)                              İlksel
+2021.02.23 07:45:05  36.8955   29.0855       11.2      -.-  1.5  -.-   GURLEYIK-DALAMAN (MUGLA)                          İlksel
+2021.02.23 07:39:19  38.5878   27.7717        7.8      -.-  2.7  -.-   MUSACALI-TURGUTLU (MANISA)                        İlksel
+2021.02.23 06:57:43  37.8002   29.4922       17.4      -.-  0.8  -.-   SAPACA-HONAZ (DENIZLI)                            İlksel
+2021.02.23 06:55:03  39.0268   25.9910        5.0      -.-  1.9  -.-   EGE DENIZI                                        İlksel
+2021.02.23 06:21:28  37.8802   27.0295        4.1      -.-  1.3  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.23 06:19:51  36.5442   28.0170       16.2      -.-  1.2  -.-   BOZBURUN ACIKLARI-MUGLA (AKDENIZ)                 İlksel
+2021.02.23 05:53:46  39.6168   26.1035       18.3      -.-  1.7  -.-   KOSEDERE-AYVACIK (CANAKKALE)                      İlksel
+2021.02.23 05:49:57  39.8382   28.6757        6.3      -.-  2.0  -.-   ALACAAT-MUSTAFAKEMALPASA (BURSA)                  İlksel
+2021.02.23 05:18:34  39.4802   27.5570        5.4      -.-  1.4  -.-   MINNETLER-SAVASTEPE (BALIKESIR)                   İlksel
+2021.02.23 05:08:12  38.2053   27.4982        5.1      -.-  1.5  -.-   CIFTCIGEDIGI-BAYINDIR (IZMIR)                     İlksel
+2021.02.23 05:07:50  38.9933   25.9247        5.0      -.-  1.7  -.-   EGE DENIZI                                        İlksel
+2021.02.23 05:03:54  37.9168   26.9928        8.0      -.-  1.6  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.23 04:45:34  38.9930   26.0390        5.0      -.-  1.7  -.-   EGE DENIZI                                        İlksel
+2021.02.23 04:44:49  38.9940   26.0713       16.0      -.-  1.9  -.-   MIDILLI ADASI (EGE DENIZI)                        İlksel
+2021.02.23 04:34:33  39.0440   26.1013        5.0      -.-  1.6  -.-   MIDILLI ADASI (EGE DENIZI)                        İlksel
+2021.02.23 04:33:25  38.5353   30.5517        5.4      -.-  1.5  -.-   SUHUT (AFYONKARAHISAR)                            İlksel
+2021.02.23 04:32:35  37.8493   27.0145        6.8      -.-  1.4  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.23 04:30:42  40.6548   27.4897        9.7      -.-  1.3  -.-   GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)       İlksel
+2021.02.23 04:21:04  38.2945   38.7077       12.2      -.-  1.7  -.-   KAMISTAS-(MALATYA)                                İlksel
+2021.02.23 04:08:58  38.9785   26.0755        5.0      -.-  2.4  -.-   MIDILLI ADASI (EGE DENIZI)                        İlksel
+2021.02.23 04:05:47  35.4168   25.8882        5.4      -.-  2.4  -.-   GIRIT ADASI (AKDENIZ)                             İlksel
+2021.02.23 03:37:33  38.6160   39.5508       10.7      -.-  1.6  -.-   ICME-(ELAZIG)                                     İlksel
+2021.02.23 03:31:48  37.9228   26.9937        1.8      -.-  1.0  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.23 03:29:32  37.9045   26.9273       14.5      -.-  1.4  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.23 03:28:37  38.9063   35.7228        2.1      -.-  1.4  -.-   SARIMSAKLI-MELIKGAZI (KAYSERI)                    İlksel
+2021.02.23 03:27:54  37.8992   26.9138        5.1      -.-  2.0  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.23 03:25:27  39.7372   37.3558       20.0      -.-  1.2  -.-   TUZHISAR-HAFIK (SIVAS)                            İlksel
+2021.02.23 02:55:51  38.9953   26.0407        9.8      -.-  1.9  -.-   EGE DENIZI                                        İlksel
+2021.02.23 02:52:55  40.9770   42.8598        5.0      -.-  2.2  -.-   HASKOY-(ARDAHAN)                                  İlksel
+2021.02.23 02:13:15  39.5438   37.2587        3.5      -.-  1.3  -.-   KIZKAPAN-(SIVAS)                                  İlksel
+2021.02.23 02:04:51  37.7067   29.6190       18.4      -.-  0.8  -.-   INCELERTEKKESI-BOZKURT (DENIZLI)                  İlksel
+2021.02.23 01:48:14  39.6778   37.3323        3.7      -.-  2.7  -.-   KARAYUN-(SIVAS)                                   İlksel
+2021.02.23 01:43:13  37.8302   26.7650        5.0      -.-  1.4  -.-   EGE DENIZI                                        İlksel
+2021.02.23 01:42:30  39.6910   37.3128        5.0      -.-  4.0  4.0   KARAYUN-(SIVAS)                                   İlksel
+2021.02.23 01:39:51  36.9630   35.5260       21.4      -.-  1.8  -.-   HASANBEYLI-SARICAM (ADANA)                        İlksel
+2021.02.23 01:03:30  39.0893   41.1152       19.4      -.-  1.4  -.-   BAGLIISA-KARLIOVA (BINGOL)                        İlksel
+2021.02.23 01:02:42  36.2163   28.2390       27.5      -.-  1.2  -.-   AKDENIZ                                           İlksel
+2021.02.23 00:54:59  35.4555   26.6735        5.6      -.-  2.3  -.-   GIRIT ADASI (AKDENIZ)                             İlksel
+2021.02.23 00:33:43  37.8668   27.0022        4.2      -.-  1.6  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.22 22:02:46  40.1848   31.8422        7.0      -.-  1.8  -.-   BAGOZU-BEYPAZARI (ANKARA)                         İlksel
+2021.02.22 21:00:31  40.1497   31.7555       10.0      -.-  1.9  -.-   CANTIRLI-BEYPAZARI (ANKARA)                       İlksel
+2021.02.22 18:20:59  36.5978   28.9310       22.5      -.-  1.5  -.-   FETHIYE KORFEZI (AKDENIZ)                         İlksel
+2021.02.22 17:17:26  36.5027   28.8643        7.6      -.-  1.9  -.-   AKDENIZ                                           İlksel
+2021.02.22 17:05:26  36.4975   28.8842        3.6      -.-  2.2  -.-   OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)                 İlksel
+2021.02.22 16:54:52  36.5413   28.8753        1.0      -.-  3.2  3.1   FETHIYE KORFEZI (AKDENIZ)                         İlksel
+2021.02.22 16:41:05  37.8535   27.0607        3.1      -.-  2.2  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.22 16:31:04  39.5000   28.1610        9.0      -.-  1.5  -.-   ISKELE-BIGADIC (BALIKESIR)                        İlksel
+2021.02.22 15:16:02  40.4452   42.4425       10.8      -.-  1.5  -.-   KAYNAK-SENKAYA (ERZURUM)                          İlksel
+2021.02.22 15:04:19  39.1050   36.0157        5.0      -.-  1.9  -.-   TATILI-SARIOGLAN (KAYSERI)                        İlksel
+2021.02.22 14:53:39  39.0793   29.6808        5.4      -.-  1.7  -.-   YENICEARMUTCUK-CAVDARHISAR (KUTAHYA)              İlksel
+2021.02.22 14:43:17  38.9465   25.9365       11.1      -.-  2.2  -.-   EGE DENIZI                                        İlksel
+2021.02.22 14:17:22  39.1480   27.6227        0.0      -.-  1.4  -.-   SARIKAYA-SOMA (MANISA)                            İlksel
+2021.02.22 13:06:43  38.0460   27.1587        5.3      -.-  1.9  -.-   CILE-MENDERES (IZMIR)                             İlksel
+2021.02.22 12:56:54  39.1170   27.8130        5.5      -.-  1.8  -.-   KARAKURT-KIRKAGAC (MANISA)                        İlksel
+2021.02.22 12:40:56  37.9427   26.9218        4.0      -.-  1.7  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.22 12:39:08  36.5795   36.3122       19.7      -.-  1.5  -.-   YILANLI-KIRIKHAN (HATAY)                          İlksel
+2021.02.22 12:02:52  37.3340   37.4572       15.3      -.-  1.7  -.-   ILICAK-YAVUZELI (GAZIANTEP)                       İlksel
+2021.02.22 11:48:55  37.2290   28.1997        0.0      -.-  1.2  -.-   PASAPINARI-(MUGLA)                                İlksel
+2021.02.22 11:24:12  36.8005   28.1438       63.1      -.-  2.5  -.-   HISARONU-MARMARIS (MUGLA)                         İlksel
+2021.02.22 11:17:11  40.5700   35.3263        9.4      -.-  1.6  -.-   SULUKLU-MECITOZU (CORUM)                          İlksel
+2021.02.22 11:11:33  34.8540   23.3130       19.5      -.-  2.4  -.-   GIRIT ADASI (AKDENIZ)                             İlksel
+2021.02.22 10:35:02  39.0872   27.5422        0.0      -.-  2.0  -.-   EGNEZ-SOMA (MANISA)                               İlksel
+2021.02.22 10:30:57  40.5580   39.1705        5.5      -.-  2.1  -.-   HEREK-TORUL (GUMUSHANE)                           İlksel
+2021.02.22 10:20:33  40.6415   39.1360        5.4      -.-  1.9  -.-   ARAKOY-KURTUN (GUMUSHANE)                         İlksel
+2021.02.22 10:16:45  37.8160   27.1180        8.8      -.-  1.7  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.22 09:49:07  37.8997   26.8603        5.2      -.-  1.6  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.22 09:40:35  37.8818   26.9740        7.9      -.-  1.7  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.22 08:35:53  40.8603   30.8150       14.1      -.-  1.6  -.-   MURADIYE-HENDEK (SAKARYA)                         İlksel
+2021.02.22 07:12:39  35.5882   26.5037       53.7      -.-  2.4  -.-   AKDENIZ                                           İlksel
+2021.02.22 06:58:09  40.6817   29.2108       10.9      -.-  1.5  -.-   YALOVA ACIKLARI (MARMARA DENIZI)                  İlksel
+2021.02.22 06:56:23  37.0683   28.4422        6.8      -.-  1.9  -.-   YESILOVA-ULA (MUGLA)                              İlksel
+2021.02.22 06:02:01  37.8795   26.9630       13.1      -.-  1.4  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.22 05:16:02  40.1465   41.8273        8.4      -.-  1.0  -.-   CAMLIYAYLA-NARMAN (ERZURUM)                       İlksel
+2021.02.22 04:17:02  37.8418   26.8527        6.4      -.-  1.4  -.-   SISAM ADASI (EGE DENIZI)                          İlksel
+2021.02.22 04:09:33  38.2717   38.7810        5.0      -.-  1.5  -.-   KARSIYAKA-PUTURGE (MALATYA)                       İlksel
+2021.02.22 03:35:59  37.0882   30.5358        3.8      -.-  1.2  -.-   YAGCA-DOSEMEALTI (ANTALYA)                        İlksel
+2021.02.22 03:21:09  39.2595   26.8405        1.8      -.-  1.3  -.-   ODABURNU-AYVALIK (BALIKESIR)                      İlksel
+2021.02.22 03:03:12  37.4310   30.6137       10.9      -.-  1.2  -.-   BUCAK (BURDUR)                                    İlksel
+2021.02.22 03:01:34  38.9163   26.0423       23.1      -.-  1.7  -.-   EGE DENIZI                                        İlksel
+2021.02.22 02:57:39  38.9717   26.0652        8.7      -.-  1.7  -.-   EGE DENIZI                                        İlksel
+2021.02.22 02:50:56  37.7337   26.0170       14.5      -.-  1.7  -.-   ONIKI ADALAR (AKDENIZ)                            İlksel
+2021.02.22 02:44:37  38.2305   38.7533        5.0      -.-  1.1  -.-   PAZARCIK-PUTURGE (MALATYA)                        İlksel
+2021.02.22 02:12:57  37.9343   27.0815        5.0      -.-  0.9  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.22 02:08:59  36.8780   27.7508        2.0      -.-  1.6  -.-   GOKOVA KORFEZI (AKDENIZ)                          İlksel
+2021.02.22 01:55:27  40.0082   32.4137        3.4      -.-  1.6  -.-   AYAS (ANKARA)                                     İlksel
+2021.02.22 01:36:34  39.0183   25.9942        4.7      -.-  2.1  -.-   EGE DENIZI                                        İlksel
+2021.02.22 00:38:50  39.0538   40.7082        4.0      -.-  1.0  -.-   ELMALI-(BINGOL)                                   İlksel
+2021.02.21 23:57:40  39.1333   36.1313        6.9      -.-  1.3  -.-   HACIYUSUF-GEMEREK (SIVAS)                         İlksel
+2021.02.21 23:24:37  38.7133   25.8028        8.2      -.-  2.4  -.-   EGE DENIZI                                        İlksel
+2021.02.21 23:07:43  40.6653   30.6097        4.4      -.-  1.5  -.-   KARACALILIK-AKYAZI (SAKARYA)                      İlksel
+2021.02.21 22:31:29  40.5648   45.2430        3.8      -.-  2.7  -.-   AZERBAYCAN                                        İlksel
+2021.02.21 22:25:31  38.2047   25.8945        9.2      -.-  2.3  -.-   SAKIZ ADASI (EGE DENIZI)                          İlksel
+2021.02.21 21:19:02  37.6420   26.9583        3.1      -.-  1.9  -.-   MILLI PARK-KUSADASI (AYDIN)                       İlksel
+2021.02.21 20:43:40  38.5822   31.5913        6.6      -.-  1.3  -.-   MEVLUTLU-TUZLUKCU (KONYA)                         İlksel
+2021.02.21 20:24:19  35.4145   27.8003       13.6      -.-  1.8  -.-   AKDENIZ                                           İlksel
+2021.02.21 19:49:34  38.2425   38.7160        7.4      -.-  1.7  -.-   CAYKOY-PUTURGE (MALATYA)                          İlksel
+2021.02.21 19:25:26  38.4062   39.2223       11.6      -.-  1.9  -.-   DORTBOLUK-SIVRICE (ELAZIG)                        İlksel
+2021.02.21 19:20:20  37.8272   27.2942        4.7      -.-  1.5  -.-   KUSADASI (AYDIN)                                  İlksel
+2021.02.21 18:31:14  40.4560   30.6848        7.7      -.-  2.1  -.-   KASIKCISEYHLER-GOYNUK (BOLU)                      İlksel
+2021.02.21 17:36:39  40.1182   35.1035        5.0      -.-  2.2  -.-   KURKCU-ALACA (CORUM)                              İlksel
+2021.02.21 15:39:52  36.4617   36.9125        7.6      -.-  1.6  -.-   SURIYE                                            İlksel
+2021.02.21 15:30:29  37.8993   29.2373        1.8      -.-  2.5  -.-   IRLIGANLI-(DENIZLI)                               İlksel
+2021.02.21 15:24:49  38.9602   26.0515        6.5      -.-  1.9  -.-   EGE DENIZI                                        İlksel
+2021.02.21 13:46:27  36.9873   28.2755        8.3      -.-  1.4  -.-   CAMLI-MARMARIS (MUGLA)                            İlksel
+2021.02.21 13:40:17  37.0625   28.4670        0.0      -.-  1.1  -.-   ELMALI-ULA (MUGLA)                                İlksel
+2021.02.21 13:33:50  38.9967   26.1033       14.5      -.-  2.0  -.-   MIDILLI ADASI (EGE DENIZI)                        İlksel
+2021.02.21 13:30:05  38.9807   26.0575       20.9      -.-  1.9  -.-   EGE DENIZI                                        İlksel
+2021.02.21 13:10:45  37.0630   28.4468        0.0      -.-  1.9  -.-   ELMALI-ULA (MUGLA)                                İlksel
+2021.02.21 12:22:46  37.8768   26.7457        5.0      -.-  1.9  -.-   EGE DENIZI                                        İlksel
+2021.02.21 12:12:51  39.4780   38.6155        6.3      -.-  1.7  -.-   ATMA-ILIC (ERZINCAN)                              İlksel
+2021.02.21 11:37:38  37.9467   26.9745        5.3      -.-  1.8  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.21 11:37:22  39.5965   27.6072        8.5      -.-  1.7  -.-   SOFULAR-IVRINDI (BALIKESIR)                       İlksel
+2021.02.21 11:25:51  37.0817   28.4645        0.0      -.-  1.2  -.-   ELMALI-ULA (MUGLA)                                İlksel
+2021.02.21 11:19:26  37.8250   27.1818        3.8      -.-  1.6  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.21 10:39:34  36.3225   28.9510       26.8      -.-  2.0  -.-   OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)                 İlksel
+2021.02.21 10:33:41  36.4370   30.0173        3.9      -.-  1.4  -.-   YESILKOY-FINIKE (ANTALYA)                         İlksel
+2021.02.21 09:59:20  39.0322   40.4225        9.7      -.-  1.9  -.-   SUDUGUNU-(BINGOL)                                 İlksel
+2021.02.21 09:59:10  40.2515   35.2685        6.5      -.-  2.3  -.-   ORTAKOY (CORUM)                                   İlksel
+2021.02.21 09:54:53  38.6177   31.0265        5.0      -.-  1.1  -.-   CAY (AFYONKARAHISAR)                              İlksel
+2021.02.21 09:25:50  36.7153   28.1212       81.7      -.-  1.3  -.-   SELIMIYE-MARMARIS (MUGLA)                         İlksel
+2021.02.21 09:09:17  36.2120   35.9348       23.0      -.-  1.6  -.-   CAMLIYAYLA-SAMANDAG (HATAY)                       İlksel
+2021.02.21 09:03:36  38.9968   26.0687       10.7      -.-  2.1  -.-   MIDILLI ADASI (EGE DENIZI)                        İlksel
+2021.02.21 08:59:13  38.3260   38.8928        1.5      -.-  1.9  -.-   UZUNHUSEYIN-KALE (MALATYA)                        İlksel
+2021.02.21 07:56:00  40.8808   31.6395        5.6      -.-  1.9  -.-   YESILCELE-(BOLU)                                  İlksel
+2021.02.21 07:50:48  37.8715   27.0403        5.4      -.-  1.2  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.21 07:05:47  37.8847   26.7972        9.9      -.-  1.7  -.-   EGE DENIZI                                        İlksel
+2021.02.21 07:05:22  37.9107   26.9877        9.9      -.-  1.7  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.21 05:52:46  37.6900   29.1447        3.7      -.-  1.1  -.-   KARATAS-(DENIZLI)                                 İlksel
+2021.02.21 05:49:12  40.8980   31.8493        5.6      -.-  1.9  -.-   HAYRANLAR-MENGEN (BOLU)                           İlksel
+2021.02.21 05:44:42  39.0105   26.1282        7.4      -.-  1.8  -.-   MIDILLI ADASI (EGE DENIZI)                        İlksel
+2021.02.21 05:28:15  35.5612   26.0503       13.0      -.-  1.9  -.-   GIRIT ADASI (AKDENIZ)                             İlksel
+2021.02.21 04:35:38  36.2002   27.4883        5.7      -.-  1.7  -.-   DATCA ACIKLARI-MUGLA (AKDENIZ)                    İlksel
+2021.02.21 03:52:58  38.9467   25.9457        2.3      -.-  2.8  -.-   EGE DENIZI                                        İlksel
+2021.02.21 03:36:59  38.9512   25.8488        5.6      -.-  1.6  -.-   EGE DENIZI                                        İlksel
+2021.02.21 03:26:58  37.1665   30.6160       21.2      -.-  1.0  -.-   ILICAKOY-DOSEMEALTI (ANTALYA)                     İlksel
+2021.02.21 03:14:41  37.8123   26.9400        9.2      -.-  1.9  -.-   SISAM ADASI (EGE DENIZI)                          İlksel
+2021.02.21 03:00:39  37.8603   29.4748        8.7      -.-  1.0  -.-   ALIKURT-BOZKURT (DENIZLI)                         İlksel
+2021.02.21 02:49:20  40.8577   31.5612       10.1      -.-  1.3  -.-   KOZLU-(BOLU)                                      İlksel
+2021.02.21 02:35:03  36.0132   27.6135        8.1      -.-  2.1  -.-   AKDENIZ                                           İlksel
+2021.02.21 02:08:21  35.7893   32.3130       11.5      -.-  1.8  -.-   AKDENIZ                                           İlksel
+2021.02.21 01:43:51  37.8852   27.1512        9.5      -.-  1.8  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.21 01:36:04  40.2577   28.7210        9.0      -.-  1.5  -.-   BADIRGA-NILUFER (BURSA)                           İlksel
+2021.02.21 01:17:38  37.9110   27.1990        8.1      -.-  1.1  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.21 01:00:42  37.8972   26.4535       13.7      -.-  1.4  -.-   EGE DENIZI                                        İlksel
+2021.02.21 00:34:22  37.9335   27.0200        3.3      -.-  1.3  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.21 00:31:50  37.3587   35.2412        1.3      -.-  1.5  -.-   MERKEZBOZTAHTA-KARAISALI (ADANA)                  İlksel
+2021.02.20 23:58:53  38.9412   26.0222        2.1      -.-  2.3  -.-   EGE DENIZI                                        İlksel
+2021.02.20 23:56:33  38.9987   26.0773       17.8      -.-  2.0  -.-   MIDILLI ADASI (EGE DENIZI)                        İlksel
+2021.02.20 23:32:09  36.4893   28.6527       13.6      -.-  1.3  -.-   AKDENIZ                                           İlksel
+2021.02.20 23:28:56  38.3312   38.8308       16.2      -.-  1.5  -.-   UYANIK-KALE (MALATYA)                             İlksel
+2021.02.20 23:22:28  38.9303   25.9728       19.2      -.-  1.6  -.-   EGE DENIZI                                        İlksel
+2021.02.20 23:14:53  38.5692   27.7838        8.9      -.-  1.1  -.-   MUSACALI-TURGUTLU (MANISA)                        İlksel
+2021.02.20 22:28:08  36.0553   26.9842       15.0      -.-  2.6  -.-   AKDENIZ                                           İlksel
+2021.02.20 22:24:34  38.5753   25.8145        4.2      -.-  1.5  -.-   SAKIZ ADASI (EGE DENIZI)                          İlksel
+2021.02.20 22:08:11  41.3502   33.5648        1.6      -.-  3.0  -.-   AHLATCIK-(KASTAMONU)                              İlksel
+2021.02.20 21:57:28  38.9663   25.9280        7.2      -.-  2.2  -.-   EGE DENIZI                                        İlksel
+2021.02.20 21:39:33  37.8747   27.2122        6.8      -.-  1.8  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.20 21:31:38  37.8757   27.0077       13.2      -.-  2.0  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.20 21:30:36  37.8888   27.1945        9.0      -.-  2.4  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.20 21:29:35  37.9182   27.2135        6.2      -.-  1.8  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.20 20:54:24  42.5722   43.5268        4.7      -.-  2.3  -.-   GURCISTAN                                         İlksel
+2021.02.20 20:26:05  35.8722   28.0987        2.9      -.-  1.8  -.-   AKDENIZ                                           İlksel
+2021.02.20 20:24:10  37.3732   35.2527        5.0      -.-  1.5  -.-   MERKEZBOZTAHTA-KARAISALI (ADANA)                  İlksel
+2021.02.20 20:20:37  35.8545   28.0973        7.7      -.-  1.9  -.-   AKDENIZ                                           İlksel
+2021.02.20 20:16:21  35.8920   28.0547        4.5      -.-  2.1  -.-   AKDENIZ                                           İlksel
+2021.02.20 20:00:44  35.9378   28.0030        6.3      -.-  4.0  4.1   AKDENIZ                                           İlksel
+2021.02.20 19:55:51  34.8977   34.0500       24.5      -.-  2.0  -.-   AKDENIZ                                           İlksel
+2021.02.20 19:43:03  38.9863   26.0145        5.0      -.-  2.1  -.-   EGE DENIZI                                        İlksel
+2021.02.20 19:37:42  38.9412   26.0050       10.1      -.-  2.3  -.-   EGE DENIZI                                        İlksel
+2021.02.20 18:57:27  38.9728   26.0598       19.3      -.-  2.0  -.-   EGE DENIZI                                        İlksel
+2021.02.20 18:26:38  38.9662   26.1385        5.0      -.-  2.1  -.-   MIDILLI ADASI (EGE DENIZI)                        İlksel
+2021.02.20 18:23:22  38.9385   25.9762        6.0      -.-  3.6  3.7   EGE DENIZI                                        İlksel
+2021.02.20 18:09:42  39.0778   25.7593       13.0      -.-  1.8  -.-   EGE DENIZI                                        İlksel
+2021.02.20 18:00:41  36.6033   30.8708       71.0      -.-  1.5  -.-   ANTALYA KORFEZI (AKDENIZ)                         İlksel
+2021.02.20 17:42:49  36.4055   29.0482       13.1      -.-  2.1  -.-   OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)                 İlksel
+2021.02.20 17:41:12  39.0690   29.9127       10.0      -.-  1.6  -.-   ALINCIK-ALTINTAS (KUTAHYA)                        İlksel
+2021.02.20 17:08:34  37.8972   29.2173       10.0      -.-  2.3  -.-   IRLIGANLI-(DENIZLI)                               İlksel
+2021.02.20 16:55:19  39.4668   31.5550        0.0      -.-  1.4  -.-   BOGURTLEN-SIVRIHISAR (ESKISEHIR)                  İlksel
+2021.02.20 15:59:58  39.8255   27.9872        5.2      -.-  2.0  -.-   ODALIDAM-SUSURLUK (BALIKESIR)                     İlksel
+2021.02.20 15:59:12  39.8198   27.9748        7.8      -.-  2.1  -.-   CAYPINAR-(BALIKESIR)                              İlksel
+2021.02.20 15:58:15  38.1297   42.6707        5.0      -.-  2.4  -.-   KALKANLI-HIZAN (BITLIS)                           İlksel
+2021.02.20 15:42:58  37.8770   27.0175       17.4      -.-  2.0  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.20 15:42:14  37.5480   35.5760       10.7      -.-  1.6  -.-   ENIZCAKIRI-KOZAN (ADANA)                          İlksel
+2021.02.20 15:41:21  37.8270   26.5242        5.3      -.-  2.0  -.-   SISAM ADASI (EGE DENIZI)                          İlksel
+2021.02.20 14:37:25  38.6313   43.1895       13.1      -.-  2.0  -.-   ARISU-(VAN)                                       İlksel
+2021.02.20 14:06:02  37.8325   26.4225       17.0      -.-  1.7  -.-   ONIKI ADALAR (AKDENIZ)                            İlksel
+2021.02.20 13:55:29  40.2250   30.7298        0.0      -.-  1.6  -.-   KUYUPINAR-GOYNUK (BOLU)                           İlksel
+2021.02.20 13:51:13  40.2230   30.7798        0.0      -.-  1.3  -.-   HIMMETOGLU-GOYNUK (BOLU)                          İlksel
+2021.02.20 12:51:20  39.6345   39.8900        5.0      -.-  1.7  -.-   OTLUK-UZUMLU (ERZINCAN)                           İlksel
+2021.02.20 12:18:37  37.8127   26.7388        6.8      -.-  3.1  3.0   EGE DENIZI                                        İlksel
+2021.02.20 11:40:12  39.1102   36.0740        6.7      -.-  1.7  -.-   BESTEPE-GEMEREK (SIVAS)                           İlksel
+2021.02.20 11:22:39  38.9143   26.1137        7.3      -.-  2.1  -.-   MIDILLI ADASI (EGE DENIZI)                        İlksel
+2021.02.20 10:57:09  37.8318   27.1910        4.7      -.-  2.0  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.20 10:43:17  37.1778   37.2185        0.0      -.-  1.6  -.-   YESILCE-SEHITKAMIL (GAZIANTEP)                    İlksel
+2021.02.20 09:25:56  38.4530   39.2425        3.4      -.-  2.0  -.-   ALINCIK-SIVRICE (ELAZIG)                          İlksel
+2021.02.20 08:25:31  34.8782   24.4427        7.1      -.-  1.7  -.-   GIRIT ADASI ACIKLARI (AKDENIZ)                    İlksel
+2021.02.20 08:08:26  37.5900   27.2365       18.8      -.-  1.5  -.-   TUZBURGAZI-SOKE (AYDIN)                           İlksel
+2021.02.20 07:57:35  38.5738   31.6655        4.3      -.-  2.3  -.-   MEVLUTLU-TUZLUKCU (KONYA)                         İlksel
+2021.02.20 07:55:54  38.5323   31.6542        5.0      -.-  1.6  -.-   MEVLUTLU-TUZLUKCU (KONYA)                         İlksel
+2021.02.20 07:52:49  38.5758   31.6578        5.5      -.-  3.8  3.6   MEVLUTLU-TUZLUKCU (KONYA)                         İlksel
+2021.02.20 07:39:03  39.5147   44.4705        5.0      -.-  2.0  -.-   TURKIYE-IRAN SINIR BOLGESI                        İlksel
+2021.02.20 07:02:41  38.8018   27.6710       15.9      -.-  2.0  -.-   TIRKES-SARUHANLI (MANISA)                         İlksel
+2021.02.20 06:27:37  37.3060   38.5873        7.6      -.-  1.9  -.-   KESMETAS-BOZOVA (SANLIURFA)                       İlksel
+2021.02.20 06:20:37  40.1540   31.7545        9.4      -.-  2.2  -.-   CANTIRLI-BEYPAZARI (ANKARA)                       İlksel
+2021.02.20 05:40:10  39.5268   28.0785        9.4      -.-  1.6  -.-   GUVEMCETMI-BIGADIC (BALIKESIR)                    İlksel
+2021.02.20 05:06:21  39.0472   29.8737        9.8      -.-  1.4  -.-   ALINCIK-ALTINTAS (KUTAHYA)                        İlksel
+2021.02.20 04:52:01  37.8512   26.9658        9.2      -.-  1.9  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.20 04:10:05  38.9132   26.7457       10.8      -.-  1.9  -.-   CANDARLI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.20 03:46:19  39.1135   36.1133        2.9      -.-  1.9  -.-   KUMEOREN-GEMEREK (SIVAS)                          İlksel
+2021.02.20 03:44:00  38.4430   25.3072        1.0      -.-  2.0  -.-   EGE DENIZI                                        İlksel
+2021.02.20 03:39:23  39.0288   29.8732        5.0      -.-  2.8  -.-   ALINCIK-ALTINTAS (KUTAHYA)                        İlksel
+2021.02.20 03:33:14  38.5013   39.1700       11.2      -.-  1.7  -.-   DEDEPINARI-(ELAZIG)                               İlksel
+2021.02.20 03:31:55  38.0505   37.5728        5.0      -.-  1.7  -.-   GOVDELI-DOGANSEHIR (MALATYA)                      İlksel
+2021.02.20 03:13:44  39.0318   29.8763        5.5      -.-  2.8  -.-   ALINCIK-ALTINTAS (KUTAHYA)                        İlksel
+2021.02.20 03:10:34  35.2767   31.3725       29.5      -.-  2.2  -.-   AKDENIZ                                           İlksel
+2021.02.20 03:00:33  37.8763   26.9622       13.3      -.-  1.4  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.20 02:53:53  40.8208   34.1088        3.1      -.-  1.6  -.-   AHACIK-BAYAT (CORUM)                              İlksel
+2021.02.20 02:40:31  38.4698   25.4045       16.5      -.-  3.6  3.5   EGE DENIZI                                        İlksel
+2021.02.20 02:35:12  40.2127   37.4963       19.4      -.-  1.3  -.-   CALICI-DOGANSAR (SIVAS)                           İlksel
+2021.02.20 02:16:19  39.7228   27.8033        8.3      -.-  0.8  -.-   OVACIK-(BALIKESIR)                                İlksel
+2021.02.20 01:56:46  40.8977   31.8585        3.1      -.-  2.4  -.-   KAYABASI-MENGEN (BOLU)                            İlksel
+2021.02.20 01:34:36  39.0670   27.7708        6.9      -.-  2.2  -.-   ILYASLAR-KIRKAGAC (MANISA)                        İlksel
+2021.02.20 01:32:03  40.5230   33.0338        8.0      -.-  2.1  -.-   OZLU-ORTA (CANKIRI)                               İlksel
+2021.02.20 01:29:32  38.9395   26.0322       13.3      -.-  2.1  -.-   EGE DENIZI                                        İlksel
+2021.02.20 01:23:23  38.9583   26.0513        7.2      -.-  2.6  -.-   EGE DENIZI                                        İlksel
+2021.02.20 01:20:40  38.9513   26.0772       12.4      -.-  3.2  3.2   MIDILLI ADASI (EGE DENIZI)                        İlksel
+2021.02.20 00:31:18  40.8000   34.0735        5.0      -.-  2.2  -.-   OVACIK-YAPRAKLI (CANKIRI)                         İlksel
+2021.02.19 23:44:47  39.6173   32.3630        5.1      -.-  1.3  -.-   ESKIKOSELER-POLATLI (ANKARA)                      İlksel
+2021.02.19 23:34:14  37.8638   27.0712        4.7      -.-  1.7  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.19 23:18:04  38.9382   25.9987        7.3      -.-  2.5  -.-   EGE DENIZI                                        İlksel
+2021.02.19 22:53:56  37.3180   28.3208        4.9      -.-  1.3  -.-   KOZAGAC-(MUGLA)                                   İlksel
+2021.02.19 21:50:06  35.8540   30.8528       12.1      -.-  2.3  -.-   AKDENIZ                                           İlksel
+2021.02.19 21:30:59  37.8767   26.9217        6.8      -.-  1.8  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.19 21:13:16  39.0820   36.1000        5.0      -.-  1.9  -.-   KUMEOREN-GEMEREK (SIVAS)                          İlksel
+2021.02.19 21:02:53  40.8437   28.8663       15.8      -.-  1.6  -.-   MARMARA DENIZI                                    İlksel
+2021.02.19 20:23:13  38.9263   25.9872        6.4      -.-  2.3  -.-   EGE DENIZI                                        İlksel
+2021.02.19 20:18:15  39.1580   29.3937       10.5      -.-  1.7  -.-   YESILOVA-GEDIZ (KUTAHYA)                          İlksel
+2021.02.19 20:16:41  38.9938   26.1200        6.4      -.-  1.9  -.-   MIDILLI ADASI (EGE DENIZI)                        İlksel
+2021.02.19 20:10:40  37.9347   27.1477        5.1      -.-  1.5  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.19 20:09:34  38.2305   36.3868        3.2      -.-  2.0  -.-   ALTINOBA-GOKSUN (KAHRAMANMARAS)                   İlksel
+2021.02.19 19:53:38  39.8782   40.2013        4.7      -.-  2.0  -.-   CADIRKAYA-TERCAN (ERZINCAN)                       İlksel
+2021.02.19 19:35:43  38.2847   38.6690        5.0      -.-  2.5  -.-   KAMISTAS-(MALATYA)                                İlksel
+2021.02.19 19:33:32  39.8743   40.1632        4.4      -.-  1.8  -.-   YUREKLI-CAYIRLI (ERZINCAN)                        İlksel
+2021.02.19 19:26:28  37.9712   42.9658        5.0      -.-  2.8  -.-   KORULU-CATAK (VAN)                                İlksel
+2021.02.19 19:10:54  40.5643   33.0187        5.0      -.-  3.5  3.4   ORTABAYINDIR-ORTA (CANKIRI)                       İlksel
+2021.02.19 19:04:29  37.4857   32.0763        2.9      -.-  2.2  -.-   KETENLI-SEYDISEHIR (KONYA)                        İlksel
+2021.02.19 18:57:26  41.2898   40.7960        9.5      -.-  2.0  -.-   PAZAR ACIKLARI-RIZE (KARADENIZ)                   İlksel
+2021.02.19 18:29:22  36.5537   29.0097        5.0      -.-  1.8  -.-   FETHIYE KORFEZI (AKDENIZ)                         İlksel
+2021.02.19 18:05:40  39.3557   38.0805       17.5      -.-  1.1  -.-   GUNBAHCE-DIVRIGI (SIVAS)                          İlksel
+2021.02.19 18:00:25  37.8738   27.0260        9.2      -.-  1.3  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.19 17:58:03  38.9240   25.9793        3.4      -.-  2.2  -.-   EGE DENIZI                                        İlksel
+2021.02.19 17:43:59  38.9452   26.0070       10.2      -.-  2.6  -.-   EGE DENIZI                                        İlksel
+2021.02.19 17:12:58  36.4620   28.3107       15.0      -.-  2.3  -.-   AKDENIZ                                           İlksel
+2021.02.19 16:53:03  37.8382   27.0430       13.4      -.-  2.0  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.19 15:48:34  38.9098   26.1363        4.1      -.-  1.9  -.-   MIDILLI ADASI (EGE DENIZI)                        İlksel
+2021.02.19 15:34:42  39.3770   31.5968        0.0      -.-  1.7  -.-   ISTIKLALBAGI-SIVRIHISAR (ESKISEHIR)               İlksel
+2021.02.19 15:10:20  38.3273   38.1860       17.7      -.-  1.0  -.-   DURULDU-(MALATYA)                                 İlksel
+2021.02.19 15:02:44  37.9063   26.9222        4.7      -.-  2.1  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.19 14:24:03  37.1033   34.8600       10.0      -.-  1.8  -.-   ALIBEYLI-TARSUS (MERSIN)                          REVIZE01   (2021.02.19 14:24:03)
+2021.02.19 14:19:03  37.1607   34.6233       24.4      -.-  1.2  -.-   CAMLIYAYLA (MERSIN)                               İlksel
+2021.02.19 14:15:49  37.1108   34.8248       10.5      -.-  1.4  -.-   KIZILCUKUR-TARSUS (MERSIN)                        İlksel
+2021.02.19 13:34:58  39.0142   37.4417        0.0      -.-  1.5  -.-   YENIKOY-KANGAL (SIVAS)                            İlksel
+2021.02.19 12:51:52  37.2555   39.1885        5.0      -.-  1.6  -.-   KAYGILI-(SANLIURFA)                               İlksel
+2021.02.19 12:46:19  39.4103   40.3370        5.0      -.-  2.1  -.-   KABAYEL-YEDISU (BINGOL)                           İlksel
+2021.02.19 12:44:03  39.4985   38.2560        0.0      -.-  1.4  -.-   GEDIKBASI-DIVRIGI (SIVAS)                         İlksel
+2021.02.19 12:43:47  37.7958   27.1668        3.8      -.-  1.4  -.-   KUSADASI KORFEZI (EGE DENIZI)                     İlksel
+2021.02.19 11:58:13  36.2538   33.6957        0.0      -.-  1.1  -.-   ISIKLI-SILIFKE (MERSIN)                           İlksel
+2021.02.19 11:57:57  38.1977   30.1800        6.3      -.-  2.0  -.-   AFSAR-DINAR (AFYONKARAHISAR)                      İlksel
+2021.02.19 11:35:06  37.7720   27.0037       10.5      -.-  1.9  -.-   SISAM ADASI (EGE DENIZI)                          İlksel
+2021.02.19 11:15:15  39.9628   39.8050        5.3      -.-  2.4  -.-   KALECIK-DEMIROZU (BAYBURT)                        İlksel
+
